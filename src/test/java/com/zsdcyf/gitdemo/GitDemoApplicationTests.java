@@ -13,6 +13,8 @@ class GitDemoApplicationTests {
         System.out.println("Hello git");
         System.out.println("Update git");
         System.out.println("hot fix");
+        System.out.println("代码冲突hot fix");
+        System.out.println("代码冲突hot fix11111111111111");
     }
 
 }
