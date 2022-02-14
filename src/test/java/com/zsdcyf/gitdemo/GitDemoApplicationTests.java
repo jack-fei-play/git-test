@@ -9,6 +9,7 @@ class GitDemoApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("代码冲突master");
+        System.out.println("代码冲突master2");
         System.out.println("Hello git");
         System.out.println("Update git");
         System.out.println("hot fix");
